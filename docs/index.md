@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font><br>
+<font size= "6">(Ruben Esquer) Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> EGR 304 Project</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 209 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: September, 02, 2026**
 </center>
 
 ## Introduction
